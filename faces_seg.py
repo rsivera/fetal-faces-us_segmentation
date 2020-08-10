@@ -1,5 +1,9 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+# Copyright (C) 2019 B. Biffi
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License version 3.
+
 
 import ConfigParser
 import argparse
